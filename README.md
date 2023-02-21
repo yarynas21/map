@@ -20,10 +20,12 @@ Main map with all three layers:
 <img src="https://github.com/yarynas21/map/blob/main/alll.png" alt="my image" width="4444">
 
 Map with nearest films:
-<img src="https://github.com/yarynas21/map/blob/main/closest.png" alt="my image" width="500">
+<img src="https://github.com/yarynas21/map/blob/main/closest.png" alt="my image" width="4444">
+
 if distance is more than 600 km circle is red, in other case circle is yellow.
 
 Map with all films by year:
-<img src="https://github.com/yarynas21/map/blob/main/films.png" alt="my image" width="500">
+<img src="https://github.com/yarynas21/map/blob/main/films.png" alt="my image" width="4444">
+
 My code has limits to read main file, if you want to change it, you can do this by changing limit in function read_file.
 Also, I wrote doctests on a shorter file.
