@@ -8,4 +8,4 @@ This map has three layers:
 3) layer of all films by year
 
 ### How to run map?
-<img src="https://github.com/yarynas21/map#:~:text=4%20hours%20ago-,launch.png,-Add%20files%20via" alt="my image" width="500">
+<img src="https://github.com/yarynas21/map/blob/main/launch.png" alt="my image" width="500">
