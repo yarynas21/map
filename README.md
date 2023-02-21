@@ -8,3 +8,4 @@ This map has three layers:
 3) layer of all films by year
 
 ### How to run map?
+<img src="launch.jpg" alt="my image" width="500">
