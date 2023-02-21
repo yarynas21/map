@@ -14,9 +14,10 @@ Second attribute is "Latitude" (49.83826)
 Third attribute is "Longitude" (24.02324)
 Fourth attribute is "Path_to_dataset" (Users/yarynasavkiv/Desktop/maapp/locations.list)
 
-###Visualisation
+##Visualisation
+
 Main map with all three layers:
-<img src="https://github.com/yarynas21/map/blob/main/alll.png" alt="my image" width="500">
+<img src="https://github.com/yarynas21/map/blob/main/alll.png" alt="my image" width="4444">
 
 Map with nearest films:
 <img src="https://github.com/yarynas21/map/blob/main/closest.png" alt="my image" width="500">
