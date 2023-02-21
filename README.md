@@ -7,3 +7,4 @@ This map has three layers:
 2) layer of nearest film from my location by year
 3) layer of all films by year
 
+### How to run map?
